@@ -3,7 +3,7 @@ Business Overview
 
 Mario Pizza Store needed clear visibility into product performance, customer preferences, and operational trends to drive revenue growth and efficiency. This project ingests raw CSV sales data into a PostgreSQL database, performs advanced SQL analysis, and delivers an interactive Tableau dashboard that empowers data-driven decisions.
 
-Overview:
+Project Overview:
 This project delivers an end-to-end sales analytics solution for Mario Pizza Store. By processing over 48,000 transaction records in PostgreSQL and visualizing key metrics in Tableau, it uncovers actionable insights into product performance, customer behavior, and operational trends. The result is an interactive dashboard that empowers management to make data-driven decisions on marketing, inventory, and staffing.
 
 
