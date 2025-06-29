@@ -31,7 +31,10 @@ Total Orders	21,338	      :Measures transaction volume for staffing and capacity
 Average Order Value	$38.31  :Informs pricing and promotional strategies
 Total Pizzas Sold	49,574	  :Guides inventory and supply chain optimizations
 Repository Structure
-![Screenshot 2025-06-29 005934](https://github.com/user-attachments/assets/b824a56d-aba4-4937-927a-050c7322f7bd)
+
+Mario's Pizza Sales Analysis Dashboard 
+![Screenshot 2025-06-29 005934](https://github.com/user-attachments/assets/c9a3d4a9-6393-4f6f-bdf7-dedf466c937d)
+
 
 
 By combining robust SQL analytics with an interactive Tableau interface, this project transforms raw sales data into clear, strategic insights that drive business decisions and growth.
