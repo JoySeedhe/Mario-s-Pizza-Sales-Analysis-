@@ -32,22 +32,5 @@ Average Order Value	$38.31  :Informs pricing and promotional strategies
 Total Pizzas Sold	49,574	  :Guides inventory and supply chain optimizations
 Repository Structure
 
-text
-mario-pizza-sales-analysis/
-├── README.md
-├── data/
-│   ├── raw/               # Original CSV exports
-│   └── processed/         # Cleaned datasets
-├── sql/
-│   ├── database_schema.sql
-│   ├── data_import.sql
-│   └── analysis_queries.sql
-├── dashboard/
-│   ├── mario_dashboard.twbx
-│   └── screenshots/       # Sample views of the dashboard
-└── docs/
-    └── methodology.md     # Detailed analysis approach
-
-
 
 By combining robust SQL analytics with an interactive Tableau interface, this project transforms raw sales data into clear, strategic insights that drive business decisions and growth.
